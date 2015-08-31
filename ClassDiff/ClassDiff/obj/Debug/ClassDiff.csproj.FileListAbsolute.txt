@@ -1,0 +1,10 @@
+C:\Users\M\Desktop\ClassDiff\ClassDiff\bin\Debug\ClassDiff.dll
+C:\Users\M\Desktop\ClassDiff\ClassDiff\bin\Debug\ClassDiff.pdb
+C:\Users\M\Desktop\ClassDiff\ClassDiff\obj\Debug\ClassDiff.csprojResolveAssemblyReference.cache
+C:\Users\M\Desktop\ClassDiff\ClassDiff\obj\Debug\ClassDiff.dll
+C:\Users\M\Desktop\ClassDiff\ClassDiff\obj\Debug\ClassDiff.pdb
+C:\Users\M\Desktop\MyProject\ClassDiff\ClassDiff\bin\Debug\ClassDiff.dll
+C:\Users\M\Desktop\MyProject\ClassDiff\ClassDiff\bin\Debug\ClassDiff.pdb
+C:\Users\M\Desktop\MyProject\ClassDiff\ClassDiff\obj\Debug\ClassDiff.csprojResolveAssemblyReference.cache
+C:\Users\M\Desktop\MyProject\ClassDiff\ClassDiff\obj\Debug\ClassDiff.dll
+C:\Users\M\Desktop\MyProject\ClassDiff\ClassDiff\obj\Debug\ClassDiff.pdb
